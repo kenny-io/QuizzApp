@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+
+    <string name="question1">
+        <item name="android:text">1. How many disciples did Jesus have ? </item>
+    </string>
+
+    <string name="question2">
+        <item name="android:text">2. Who betrayed Jesus ?</item>
+    </string>
+
+    <string name="question3">
+        <item name="android:text">3. Who wrote the book of genesis ?</item>
+    </string>
+
+    <string name="question4">
+        <item name="android:text">4. How many chapters are in the bible?</item>
+    </string>
+
+    <string name="question5">
+        <item name="android:text">5. Who were the first two people to disobey God ? </item>
+    </string>
+
+    <string name="question6">
+        <item name="android:text">6. Quote john 11 vs 35 ?</item>
+    </string>
+
+    <string name="question7">
+        <item name="android:text">7. How many verses are in the old testament ?</item>
+    </string>
+
+    <string name="question8">
+        <item name="android:text">8. Who were the first two people referred to as prophets in the bible?</item>
+    </string>
+
+    <string name="question9">
+        <item name="android:text">9. The shortest chapter in the bible is psalm ?</item>
+    </string>
+
+    <string name="question10">
+        <item name="android:text">10. Who built the Arc ?</item>
+    </string>
+
+    <string name="welcome_header">
+        <item name="android:text">Welcome to Kennyz Bible Quiz</item>
+    </string>
+
+    <string name="welcome_message">
+        <item name="android:text">The quiz will test your knowledge of the bible
+in just 10 questions, play for fun!! give it you best shot!!!</item>
+    </string>
+</resources>
